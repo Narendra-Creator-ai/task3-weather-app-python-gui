@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Local runtime data
+weather_config.json
+searched_cities.json
