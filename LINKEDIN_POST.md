@@ -6,11 +6,11 @@ This project pulls **live weather data** from OpenWeather and presents it in an 
 
 ### What I implemented
 - City-based weather search
-- Live temperature, condition, and humidity
+- Live temperature, weather condition, and humidity
 - 5-day forecast view
 - Error handling for invalid city/API/network issues
 - Saved city history
-- API key persistence so users do not need to re-enter the key on every run
+- API key persistence so users do not need to re-enter the key every time
 
 ### Tech stack
 - Python
@@ -18,8 +18,11 @@ This project pulls **live weather data** from OpenWeather and presents it in an 
 - Requests
 - OpenWeather API
 
-I also documented setup and usage in GitHub with project screenshots.
+GitHub Repo:  
+https://github.com/Narendra-Creator-ai/task3-weather-app-python-gui
 
-Feedback is welcome. I would love to hear ideas for v2 features.
+I have also added the output screenshot and complete setup steps in the repository.
 
-#Python #API #WeatherApp #OpenWeather #Tkinter #DesktopApp #100DaysOfCode #Programming #SoftwareDevelopment
+Feedback is welcome. I would love to hear ideas for version 2.
+
+#Python #API #WeatherApp #OpenWeather #Tkinter #DesktopApp #GitHub #Programming #SoftwareDevelopment
